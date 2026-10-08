@@ -1,0 +1,30 @@
+# PulseWPS Example Configuration
+
+APP_NAME="PulseWPS"
+VERSION="1.0.0"
+
+# Example License Plans
+PLAN_1_NAME="1 Day"
+PLAN_1_PRICE="৳50"
+PLAN_1_DAYS="1"
+
+PLAN_2_NAME="7 Days"
+PLAN_2_PRICE="৳150"
+PLAN_2_DAYS="7"
+
+PLAN_3_NAME="30 Days"
+PLAN_3_PRICE="৳400"
+PLAN_3_DAYS="30"
+
+PLAN_4_NAME="90 Days"
+PLAN_4_PRICE="৳900"
+PLAN_4_DAYS="90"
+
+PLAN_5_NAME="365 Days"
+PLAN_5_PRICE="৳2500"
+PLAN_5_DAYS="365"
+
+# Private values must NOT be placed here.
+# BOT_TOKEN=
+# ADMIN_ID=
+# LICENSE_SIGNING_KEY=

@@ -1,0 +1,17 @@
+.env
+.env.*
+private/
+secrets/
+licenses/
+config/config.cfg
+config/config.py
+users_list.txt
+blocklist.txt
+*.log
+*.bak
+*.backup
+__pycache__/
+*.pyc
+*.pyo
+.device_id
+nohup.out
