@@ -7,7 +7,9 @@ BIN_DIR="$PREFIX/bin"
 
 echo
 echo "╔══════════════════════════════════════╗"
-echo "║        PulseWPS Installer            ║"
+echo "║  																				    ║"
+echo "║		 					PulseWPS Installer 						  ║"
+echo "║            										  						║"
 echo "╚══════════════════════════════════════╝"
 echo
 
